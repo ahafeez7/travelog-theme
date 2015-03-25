@@ -1,12 +1,12 @@
 # Site settings
-title: Travelog
-subtitle: "Journal of [name]"
-email: your-email@domain.com
-description: "Make the footer happy by entering a short description about yourself here"
+title: Abdul Hafeez
+subtitle: "Computer Scientist"
+email: engrhafeez@gmail.com
+description: "Accelerate collaboration between materials, manufacturing, and data scientists"
 baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: "rowanoulton"
-github_username:  "rowanoulton"
+url: "http://ahafeez7.net"
+twitter_username: "hokie khan"
+github_username:  "ahafeez7"
 instagram_username: "rowanoulton"
 
 # Build settings
